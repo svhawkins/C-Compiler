@@ -1,0 +1,3 @@
+[submodule "third_party/writing-a-c-compiler-tests"]
+	path = third_party/writing-a-c-compiler-tests
+	url = https://github.com/nlsandler/writing-a-c-compiler-tests.git
